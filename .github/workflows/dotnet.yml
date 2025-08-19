@@ -7,7 +7,7 @@ on:
     branches: [ "main" ]
 
 env:
-  PROJECT_LOCATION: STTAQ-Web_App/STTAQ-Web_App.csproj
+  PROJECT_LOCATION: STTAQ-Web_App.csproj
   ELASTIC_BEANSTALK_NAME: dotnet-mvc-app-cicd-github-beanstalk
   ELASTIC_BEANSTALK_ENV_NAME: preprod2
 
