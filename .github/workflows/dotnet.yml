@@ -6,6 +6,7 @@ on:
   pull_request:
     branches: [ "main" ]
 
+
 env:
   PROJECT_LOCATION: STTAQ-Web_App.csproj
   ELASTIC_BEANSTALK_NAME: dotnet-mvc-app-cicd-github-beanstalk
