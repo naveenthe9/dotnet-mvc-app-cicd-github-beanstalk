@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("STTAQ-Web_App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd366462b958dc202f973f32da710471e802f536")]
 [assembly: System.Reflection.AssemblyProductAttribute("STTAQ-Web_App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("STTAQ-Web_App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
